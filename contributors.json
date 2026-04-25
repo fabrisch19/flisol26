@@ -29,6 +29,13 @@
       "mensaje": "El mejor conocimiento es el que se comparte",
       "rol": "developer",
       "libertad_favorita": "3"
+    },
+     {
+      "nombre": "Fabricio Schneiderbauer",
+      "ciudad": "Buenos Aires, Argentina",
+      "mensaje": "Transparencia",
+      "rol": "developer",
+      "libertad_favorita": "2"
     }
   ]
 }
